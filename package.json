@@ -1,0 +1,26 @@
+{
+  "name": "janus_server",
+  "version": "0.0.1",
+  "description": "Janus Prescenc and chat server",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lisa-lionheart/janus-server.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "byline": "^4.1.1",
+    "color": "^0.8.0",
+    "express": "^4.6.1",
+    "finished": "^1.2.2",
+    "htmlparser": "^1.7.7",
+    "npmlog": "^0.1.1",
+    "optimist": "^0.6.1",
+    "simplesets": "^1.2.0",
+    "ws": "^0.7.1"
+  }
+}
